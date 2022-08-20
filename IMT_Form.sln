@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMT_Form", "IMT_Form\IMT_Form.csproj", "{761F89A0-6B20-4052-9A45-A365D4D5C461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{761F89A0-6B20-4052-9A45-A365D4D5C461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{761F89A0-6B20-4052-9A45-A365D4D5C461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{761F89A0-6B20-4052-9A45-A365D4D5C461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{761F89A0-6B20-4052-9A45-A365D4D5C461}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1D79434-AB1C-4BF9-B49C-C3D4EE561C8C}
+	EndGlobalSection
+EndGlobal
