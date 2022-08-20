@@ -70,7 +70,7 @@
                 if (imt < 16)
                 {
                     result = "Hypotrophy III level\n";
-                }
+                } 
                 else if (imt >= 16 && imt < 17)
                 {
                     result = "Hypotrophy II level\n";

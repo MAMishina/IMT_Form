@@ -35,7 +35,7 @@ namespace IMT_Form
             Form ifrm = Application.OpenForms[0];
             ifrm.Show();
         }
-
+          
         /// <summary>
         /// Кнопка "Выход" в меню
         /// </summary>

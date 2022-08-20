@@ -39,7 +39,7 @@ namespace IMT_Form
                                 //свойства Form2.Label1
                                 Form frm = new Form2(recomendations);
                                 frm.Show();
-                                this.Hide();
+                                this.Hide(); 
                             }
                             else
                             {
